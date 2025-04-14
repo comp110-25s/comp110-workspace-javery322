@@ -1,6 +1,6 @@
 """File to define Bear class."""
 
-__author__: str = "730656365"
+__author__ = "730656365"
 
 
 class Bear:
